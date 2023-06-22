@@ -562,6 +562,13 @@ img {
     border-radius: 4px;
 }
 
+.subscribe-btt:hover,
+.subscribe-btt:focus {
+    background-color: var(--iris-color);
+    border: none;
+    fill: var(--main-color);
+}
+
 .subscribe-svg {
     margin-left: 16px;
 }
